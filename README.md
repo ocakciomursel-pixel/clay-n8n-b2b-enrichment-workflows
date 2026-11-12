@@ -1,7 +1,7 @@
 > ⚡ **NEW v2.1 Live Cloud Playground (34 Scrapers) + Instant ZIP Vaults:**
 > - 🌐 **[Run All 34 Cloud Scrapers Live in Browser & Export CSV](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/)**
-> - 🧱 **[Download Clay.com HTTP API Starter Pack (.ZIP) — \$9](https://buy.polar.sh/polar_cl_lDIkQ1BPDRI7qCNwAxGz8U0HlRs2higwma1EL1EYP5C)**
-> - 💎 **[Download Full Pro Agency Outbound Vault (7x n8n + Clay Waterfall + CSV CLI + 12 Sequences) — \$19](https://buy.polar.sh/polar_cl_j0IOeyioFqMjcNZRqTo0Cqk6HGslU1yArpHUV47NP1j)**
+> - 🧱 **[Download Clay.com HTTP API Starter Pack (.ZIP) — \$9](https://apify.com/lucacelli/apollo-b2b-leads-email-finder)**
+> - 💎 **[Download Full Pro Agency Outbound Vault (7x n8n + Clay Waterfall + CSV CLI + 12 Sequences) — \$19](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/sample-leads-30-verified.csv)**
 
 # 🧱 Clay.com HTTP API Waterfall Pack & 7 Chained n8n B2B Outbound Pipelines
 
