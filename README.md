@@ -1,3 +1,8 @@
+> ⚡ **NEW v2.0 Live Cloud Playground + Instant ZIP Vaults:**
+> - 🌐 **[Run All 25 Cloud Scrapers Live in Browser & Export CSV](https://ocakciomursel-pixel.github.io/lucacelli-b2b-mcp-server/)**
+> - 🧱 **[Download Clay.com 25-Column HTTP API Starter Pack (.ZIP) — \$9](https://buy.polar.sh/polar_cl_lDIkQ1BPDRI7qCNwAxGz8U0HlRs2higwma1EL1EYP5C)**
+> - 💎 **[Download Full Pro Agency Outbound Vault (7x n8n + 25x Clay + CSV CLI + 12 Sequences) — \$19](https://buy.polar.sh/polar_cl_j0IOeyioFqMjcNZRqTo0Cqk6HGslU1yArpHUV47NP1j)**
+
 # 🧱 Clay.com HTTP API Waterfall Pack & 7 Chained n8n B2B Outbound Pipelines
 
 Stop burning 4–8 Clay credits ($0.18–$0.35 per row) on basic domain contact lookups, ad-pixel checks, tech stack detection, and cold email icebreakers.
